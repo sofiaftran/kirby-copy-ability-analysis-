@@ -25,13 +25,18 @@ GROUP BY
 ORDER BY usage_share DESC;
 
 -- Finding:
--- Sword has the highest usage share at approximately 22.5%,
--- but this is substantially below the assumed 80%.
+-- Sword had the highest usage share at 22.5%, followed by
+-- Fire at 16.9% and Hammer at 12.4%. Leaf and Sleep had
+-- the lowest usage shares at 2.4% and 1.1%.
 --
--- This suggests that Sword is the most frequently used ability,
--- but the data does not support the claim that players primarily
--- rely on Sword to the extent originally assumed.
+-- Compared with adoption rate, usage share shows a more
+-- concentrated pattern. Players interacted with many abilities,
+-- but some abilities were used more frequently than others.
+--
+-- This provides a different view of player behavior than
+-- adoption rate, but Sword's 22.5% usage share does not support
+-- the original assumption of approximately 80% primary usage.
 --
 -- Next question:
--- Does the 80% assumption represent the share of enemies
--- defeated by each ability?
+-- Could the original 80% assumption be referring to the
+-- share of enemies defeated by each ability?
