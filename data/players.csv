@@ -1,0 +1,501 @@
+player_id,signup_date,country,platform,experience_level
+1001,2026-03-23,US,Switch,Intermediate
+1002,2026-02-01,Japan,Switch,Intermediate
+1003,2026-03-28,Germany,Switch Lite,Beginner
+1004,2026-02-24,US,Switch,Beginner
+1005,2026-01-30,Australia,Switch Lite,Beginner
+1006,2026-01-26,Germany,Switch Lite,Intermediate
+1007,2026-02-23,Japan,Switch OLED,Intermediate
+1008,2026-01-01,Japan,Switch Lite,Beginner
+1009,2026-02-05,Japan,Switch,Expert
+1010,2026-02-13,US,Switch,Beginner
+1011,2026-02-15,Canada,Switch Lite,Beginner
+1012,2026-01-06,Germany,Switch OLED,Intermediate
+1013,2026-02-18,US,Switch Lite,Beginner
+1014,2026-03-22,Australia,Switch OLED,Intermediate
+1015,2026-04-01,US,Switch,Intermediate
+1016,2026-02-07,US,Switch,Expert
+1017,2026-02-18,Canada,Switch OLED,Intermediate
+1018,2026-02-16,Japan,Switch OLED,Beginner
+1019,2026-03-27,Canada,Switch Lite,Expert
+1020,2026-03-24,US,Switch Lite,Intermediate
+1021,2026-03-10,Germany,Switch,Beginner
+1022,2026-02-18,Canada,Switch Lite,Intermediate
+1023,2026-01-29,Germany,Switch OLED,Intermediate
+1024,2026-01-08,Japan,Switch,Intermediate
+1025,2026-02-21,Canada,Switch,Beginner
+1026,2026-03-14,Germany,Switch OLED,Beginner
+1027,2026-03-05,UK,Switch Lite,Beginner
+1028,2026-02-03,Japan,Switch,Intermediate
+1029,2026-03-10,Canada,Switch Lite,Intermediate
+1030,2026-03-16,UK,Switch OLED,Beginner
+1031,2026-01-18,Australia,Switch OLED,Beginner
+1032,2026-01-07,US,Switch,Intermediate
+1033,2026-03-29,UK,Switch Lite,Beginner
+1034,2026-02-18,Australia,Switch OLED,Intermediate
+1035,2026-03-12,US,Switch Lite,Intermediate
+1036,2026-03-29,Australia,Switch OLED,Intermediate
+1037,2026-02-13,US,Switch OLED,Beginner
+1038,2026-02-28,US,Switch Lite,Expert
+1039,2026-02-03,Australia,Switch,Intermediate
+1040,2026-01-14,Germany,Switch OLED,Intermediate
+1041,2026-03-06,Australia,Switch,Beginner
+1042,2026-01-21,Australia,Switch Lite,Expert
+1043,2026-03-18,Canada,Switch OLED,Beginner
+1044,2026-02-16,Canada,Switch,Beginner
+1045,2026-03-14,US,Switch,Intermediate
+1046,2026-01-09,Australia,Switch,Beginner
+1047,2026-03-02,Australia,Switch,Beginner
+1048,2026-03-19,UK,Switch,Expert
+1049,2026-03-30,Japan,Switch Lite,Beginner
+1050,2026-03-27,Germany,Switch OLED,Beginner
+1051,2026-03-08,UK,Switch,Beginner
+1052,2026-01-09,Canada,Switch,Intermediate
+1053,2026-01-30,Australia,Switch,Beginner
+1054,2026-04-01,Germany,Switch,Beginner
+1055,2026-01-05,Canada,Switch,Intermediate
+1056,2026-02-05,Germany,Switch OLED,Beginner
+1057,2026-01-17,Germany,Switch Lite,Intermediate
+1058,2026-02-01,UK,Switch OLED,Beginner
+1059,2026-01-13,Germany,Switch OLED,Beginner
+1060,2026-02-22,UK,Switch Lite,Beginner
+1061,2026-03-25,Germany,Switch,Beginner
+1062,2026-02-13,US,Switch,Beginner
+1063,2026-03-10,UK,Switch,Beginner
+1064,2026-02-05,UK,Switch,Expert
+1065,2026-01-10,UK,Switch Lite,Beginner
+1066,2026-03-25,Australia,Switch,Expert
+1067,2026-01-31,Japan,Switch OLED,Beginner
+1068,2026-01-28,UK,Switch,Beginner
+1069,2026-01-01,UK,Switch OLED,Expert
+1070,2026-02-28,Canada,Switch OLED,Intermediate
+1071,2026-03-13,Germany,Switch Lite,Beginner
+1072,2026-01-25,Canada,Switch,Expert
+1073,2026-03-16,Germany,Switch Lite,Beginner
+1074,2026-02-10,US,Switch,Intermediate
+1075,2026-03-06,Australia,Switch,Beginner
+1076,2026-03-07,US,Switch,Beginner
+1077,2026-01-09,Germany,Switch,Beginner
+1078,2026-03-14,Japan,Switch Lite,Intermediate
+1079,2026-03-21,US,Switch OLED,Intermediate
+1080,2026-03-14,Australia,Switch OLED,Expert
+1081,2026-01-27,Germany,Switch Lite,Beginner
+1082,2026-02-03,UK,Switch,Intermediate
+1083,2026-02-08,UK,Switch OLED,Expert
+1084,2026-01-10,US,Switch OLED,Intermediate
+1085,2026-03-14,US,Switch,Intermediate
+1086,2026-03-06,Canada,Switch,Expert
+1087,2026-01-09,Japan,Switch OLED,Beginner
+1088,2026-02-26,Australia,Switch Lite,Beginner
+1089,2026-03-25,Australia,Switch,Intermediate
+1090,2026-03-12,Canada,Switch Lite,Beginner
+1091,2026-01-18,Canada,Switch,Expert
+1092,2026-03-12,Japan,Switch OLED,Beginner
+1093,2026-01-27,Germany,Switch OLED,Beginner
+1094,2026-03-23,Canada,Switch Lite,Beginner
+1095,2026-01-07,US,Switch Lite,Beginner
+1096,2026-02-05,US,Switch,Beginner
+1097,2026-01-17,Germany,Switch OLED,Beginner
+1098,2026-02-26,Australia,Switch Lite,Beginner
+1099,2026-01-02,US,Switch,Expert
+1100,2026-03-30,Japan,Switch Lite,Beginner
+1101,2026-02-17,Australia,Switch Lite,Beginner
+1102,2026-01-17,US,Switch OLED,Beginner
+1103,2026-01-06,Canada,Switch,Intermediate
+1104,2026-03-27,US,Switch OLED,Intermediate
+1105,2026-02-22,Australia,Switch Lite,Beginner
+1106,2026-01-31,Japan,Switch,Expert
+1107,2026-01-04,Japan,Switch Lite,Expert
+1108,2026-02-22,Germany,Switch Lite,Intermediate
+1109,2026-02-04,Japan,Switch Lite,Beginner
+1110,2026-01-05,UK,Switch,Beginner
+1111,2026-02-28,Canada,Switch OLED,Intermediate
+1112,2026-01-30,Japan,Switch,Intermediate
+1113,2026-02-21,Canada,Switch OLED,Expert
+1114,2026-02-05,Canada,Switch Lite,Intermediate
+1115,2026-03-28,Australia,Switch OLED,Expert
+1116,2026-01-15,Canada,Switch,Intermediate
+1117,2026-02-03,US,Switch,Intermediate
+1118,2026-02-14,Germany,Switch OLED,Beginner
+1119,2026-03-07,US,Switch OLED,Expert
+1120,2026-01-25,Canada,Switch,Intermediate
+1121,2026-01-01,Australia,Switch Lite,Intermediate
+1122,2026-03-27,Japan,Switch OLED,Beginner
+1123,2026-03-27,Canada,Switch Lite,Beginner
+1124,2026-01-16,Germany,Switch OLED,Intermediate
+1125,2026-03-27,UK,Switch OLED,Beginner
+1126,2026-02-07,Australia,Switch,Beginner
+1127,2026-03-27,UK,Switch Lite,Intermediate
+1128,2026-01-23,Australia,Switch Lite,Beginner
+1129,2026-03-12,US,Switch OLED,Beginner
+1130,2026-02-25,Australia,Switch Lite,Intermediate
+1131,2026-03-01,UK,Switch OLED,Intermediate
+1132,2026-03-07,UK,Switch Lite,Beginner
+1133,2026-01-11,Canada,Switch Lite,Intermediate
+1134,2026-03-21,Canada,Switch,Intermediate
+1135,2026-01-31,Germany,Switch OLED,Beginner
+1136,2026-01-26,Japan,Switch,Beginner
+1137,2026-03-02,Australia,Switch,Beginner
+1138,2026-03-22,Australia,Switch,Intermediate
+1139,2026-02-19,UK,Switch OLED,Beginner
+1140,2026-03-25,Germany,Switch,Expert
+1141,2026-01-14,UK,Switch,Beginner
+1142,2026-03-31,Australia,Switch OLED,Beginner
+1143,2026-02-01,US,Switch OLED,Beginner
+1144,2026-03-01,Germany,Switch Lite,Expert
+1145,2026-03-18,Canada,Switch OLED,Intermediate
+1146,2026-03-06,UK,Switch Lite,Beginner
+1147,2026-01-21,Germany,Switch OLED,Beginner
+1148,2026-02-01,Germany,Switch OLED,Intermediate
+1149,2026-03-08,UK,Switch Lite,Beginner
+1150,2026-02-26,US,Switch Lite,Beginner
+1151,2026-02-04,Canada,Switch OLED,Expert
+1152,2026-01-11,Japan,Switch,Beginner
+1153,2026-03-30,Japan,Switch Lite,Beginner
+1154,2026-02-23,UK,Switch OLED,Intermediate
+1155,2026-02-23,US,Switch,Intermediate
+1156,2026-02-19,Australia,Switch Lite,Beginner
+1157,2026-03-15,UK,Switch OLED,Beginner
+1158,2026-02-15,Canada,Switch OLED,Expert
+1159,2026-02-23,Australia,Switch Lite,Intermediate
+1160,2026-03-19,Japan,Switch OLED,Beginner
+1161,2026-02-25,UK,Switch,Beginner
+1162,2026-03-27,Germany,Switch OLED,Intermediate
+1163,2026-03-01,Japan,Switch Lite,Intermediate
+1164,2026-02-20,Australia,Switch Lite,Intermediate
+1165,2026-01-11,Germany,Switch OLED,Beginner
+1166,2026-03-01,Japan,Switch,Beginner
+1167,2026-02-11,Japan,Switch OLED,Beginner
+1168,2026-02-18,Canada,Switch OLED,Beginner
+1169,2026-01-11,UK,Switch,Intermediate
+1170,2026-01-07,Canada,Switch,Intermediate
+1171,2026-03-25,US,Switch,Expert
+1172,2026-01-26,US,Switch Lite,Beginner
+1173,2026-01-17,UK,Switch Lite,Beginner
+1174,2026-01-28,UK,Switch Lite,Beginner
+1175,2026-02-17,Japan,Switch Lite,Intermediate
+1176,2026-01-15,Japan,Switch OLED,Beginner
+1177,2026-01-04,Canada,Switch Lite,Intermediate
+1178,2026-02-18,UK,Switch Lite,Beginner
+1179,2026-03-17,Germany,Switch Lite,Beginner
+1180,2026-03-31,Canada,Switch Lite,Intermediate
+1181,2026-01-16,Australia,Switch,Beginner
+1182,2026-02-24,Germany,Switch OLED,Beginner
+1183,2026-03-24,Canada,Switch,Intermediate
+1184,2026-03-04,US,Switch OLED,Expert
+1185,2026-03-23,UK,Switch Lite,Beginner
+1186,2026-01-23,Germany,Switch Lite,Expert
+1187,2026-02-04,Australia,Switch Lite,Intermediate
+1188,2026-03-01,UK,Switch Lite,Intermediate
+1189,2026-02-11,Japan,Switch,Beginner
+1190,2026-02-27,Japan,Switch OLED,Intermediate
+1191,2026-03-27,UK,Switch OLED,Beginner
+1192,2026-02-11,Japan,Switch OLED,Beginner
+1193,2026-02-03,Canada,Switch OLED,Expert
+1194,2026-03-31,Canada,Switch Lite,Beginner
+1195,2026-01-25,US,Switch,Intermediate
+1196,2026-03-04,Australia,Switch,Intermediate
+1197,2026-03-24,Germany,Switch OLED,Beginner
+1198,2026-01-03,US,Switch OLED,Beginner
+1199,2026-03-30,Japan,Switch OLED,Intermediate
+1200,2026-02-17,UK,Switch Lite,Intermediate
+1201,2026-02-24,Germany,Switch Lite,Beginner
+1202,2026-03-31,UK,Switch OLED,Beginner
+1203,2026-01-30,US,Switch Lite,Beginner
+1204,2026-01-16,Germany,Switch Lite,Expert
+1205,2026-03-30,Japan,Switch,Beginner
+1206,2026-03-03,Canada,Switch Lite,Intermediate
+1207,2026-03-09,Australia,Switch OLED,Expert
+1208,2026-01-25,Canada,Switch,Beginner
+1209,2026-02-08,US,Switch Lite,Intermediate
+1210,2026-02-05,US,Switch,Intermediate
+1211,2026-03-31,Japan,Switch Lite,Expert
+1212,2026-03-04,US,Switch,Intermediate
+1213,2026-03-02,UK,Switch OLED,Beginner
+1214,2026-01-07,Canada,Switch OLED,Beginner
+1215,2026-01-09,UK,Switch OLED,Beginner
+1216,2026-03-22,Germany,Switch,Beginner
+1217,2026-03-14,Canada,Switch,Expert
+1218,2026-01-16,Australia,Switch OLED,Intermediate
+1219,2026-03-21,Japan,Switch Lite,Beginner
+1220,2026-02-26,Canada,Switch Lite,Expert
+1221,2026-02-09,Australia,Switch Lite,Beginner
+1222,2026-01-13,Japan,Switch Lite,Beginner
+1223,2026-03-26,US,Switch,Beginner
+1224,2026-03-12,US,Switch,Beginner
+1225,2026-02-27,Germany,Switch Lite,Beginner
+1226,2026-01-05,Japan,Switch OLED,Intermediate
+1227,2026-03-31,UK,Switch,Intermediate
+1228,2026-02-03,Germany,Switch Lite,Intermediate
+1229,2026-01-26,UK,Switch,Intermediate
+1230,2026-03-24,Japan,Switch OLED,Intermediate
+1231,2026-01-10,US,Switch,Intermediate
+1232,2026-03-18,Germany,Switch Lite,Expert
+1233,2026-02-26,US,Switch OLED,Intermediate
+1234,2026-03-31,UK,Switch OLED,Intermediate
+1235,2026-03-05,UK,Switch,Intermediate
+1236,2026-02-25,Germany,Switch OLED,Intermediate
+1237,2026-01-04,US,Switch,Expert
+1238,2026-03-15,Australia,Switch,Expert
+1239,2026-03-28,Canada,Switch Lite,Beginner
+1240,2026-01-23,UK,Switch Lite,Intermediate
+1241,2026-02-05,Japan,Switch Lite,Beginner
+1242,2026-03-04,US,Switch OLED,Beginner
+1243,2026-02-12,Canada,Switch Lite,Beginner
+1244,2026-01-21,Canada,Switch OLED,Intermediate
+1245,2026-02-06,Germany,Switch OLED,Intermediate
+1246,2026-03-12,US,Switch OLED,Beginner
+1247,2026-02-02,Canada,Switch,Expert
+1248,2026-02-21,Australia,Switch,Intermediate
+1249,2026-03-11,UK,Switch OLED,Beginner
+1250,2026-03-08,Canada,Switch Lite,Intermediate
+1251,2026-03-22,UK,Switch,Beginner
+1252,2026-03-12,Japan,Switch OLED,Beginner
+1253,2026-03-31,UK,Switch,Beginner
+1254,2026-03-22,Australia,Switch,Intermediate
+1255,2026-02-09,Australia,Switch,Intermediate
+1256,2026-01-12,Japan,Switch,Beginner
+1257,2026-01-16,Germany,Switch,Beginner
+1258,2026-02-07,Australia,Switch Lite,Beginner
+1259,2026-03-03,UK,Switch,Beginner
+1260,2026-01-19,UK,Switch,Expert
+1261,2026-03-07,Germany,Switch,Expert
+1262,2026-02-05,UK,Switch OLED,Expert
+1263,2026-03-06,Canada,Switch,Beginner
+1264,2026-02-08,Australia,Switch Lite,Expert
+1265,2026-03-04,Japan,Switch OLED,Intermediate
+1266,2026-02-14,Canada,Switch Lite,Intermediate
+1267,2026-02-18,UK,Switch OLED,Expert
+1268,2026-03-31,Japan,Switch Lite,Beginner
+1269,2026-02-22,US,Switch OLED,Intermediate
+1270,2026-04-01,UK,Switch OLED,Expert
+1271,2026-03-25,Japan,Switch OLED,Expert
+1272,2026-01-17,Australia,Switch Lite,Beginner
+1273,2026-01-13,UK,Switch,Intermediate
+1274,2026-02-28,US,Switch Lite,Beginner
+1275,2026-03-25,Japan,Switch,Beginner
+1276,2026-02-03,Canada,Switch Lite,Intermediate
+1277,2026-03-25,US,Switch OLED,Expert
+1278,2026-03-10,UK,Switch OLED,Intermediate
+1279,2026-03-04,Australia,Switch,Intermediate
+1280,2026-01-31,Germany,Switch Lite,Expert
+1281,2026-01-30,Germany,Switch,Beginner
+1282,2026-01-13,Germany,Switch Lite,Expert
+1283,2026-02-26,Japan,Switch Lite,Beginner
+1284,2026-01-04,US,Switch OLED,Intermediate
+1285,2026-02-07,Canada,Switch OLED,Beginner
+1286,2026-02-01,Australia,Switch OLED,Intermediate
+1287,2026-01-24,Japan,Switch,Beginner
+1288,2026-02-18,Australia,Switch Lite,Beginner
+1289,2026-03-16,Japan,Switch,Beginner
+1290,2026-02-02,UK,Switch OLED,Intermediate
+1291,2026-03-01,Canada,Switch Lite,Intermediate
+1292,2026-01-10,UK,Switch OLED,Expert
+1293,2026-02-08,Germany,Switch OLED,Intermediate
+1294,2026-02-28,Canada,Switch,Expert
+1295,2026-03-03,US,Switch,Beginner
+1296,2026-02-15,Australia,Switch OLED,Expert
+1297,2026-02-07,US,Switch Lite,Beginner
+1298,2026-01-02,Australia,Switch Lite,Intermediate
+1299,2026-01-07,Australia,Switch Lite,Beginner
+1300,2026-02-06,Japan,Switch Lite,Intermediate
+1301,2026-01-29,Germany,Switch,Intermediate
+1302,2026-03-28,Germany,Switch Lite,Intermediate
+1303,2026-01-18,Germany,Switch,Expert
+1304,2026-03-24,US,Switch OLED,Intermediate
+1305,2026-01-05,Australia,Switch OLED,Intermediate
+1306,2026-01-12,Canada,Switch OLED,Intermediate
+1307,2026-01-23,Japan,Switch,Intermediate
+1308,2026-02-16,Australia,Switch Lite,Expert
+1309,2026-01-22,Canada,Switch OLED,Expert
+1310,2026-02-07,Germany,Switch OLED,Intermediate
+1311,2026-03-01,US,Switch,Intermediate
+1312,2026-01-29,Germany,Switch Lite,Intermediate
+1313,2026-02-20,Australia,Switch OLED,Beginner
+1314,2026-02-20,US,Switch OLED,Intermediate
+1315,2026-02-28,Canada,Switch Lite,Intermediate
+1316,2026-02-03,Australia,Switch OLED,Intermediate
+1317,2026-02-17,US,Switch Lite,Beginner
+1318,2026-01-04,Australia,Switch Lite,Beginner
+1319,2026-03-20,Japan,Switch Lite,Beginner
+1320,2026-03-01,Germany,Switch OLED,Intermediate
+1321,2026-01-15,Japan,Switch,Expert
+1322,2026-02-08,UK,Switch,Beginner
+1323,2026-03-10,Japan,Switch OLED,Beginner
+1324,2026-03-27,Germany,Switch Lite,Expert
+1325,2026-02-23,Australia,Switch Lite,Intermediate
+1326,2026-02-23,Germany,Switch,Intermediate
+1327,2026-03-20,UK,Switch OLED,Beginner
+1328,2026-02-17,Japan,Switch OLED,Beginner
+1329,2026-01-31,Canada,Switch,Expert
+1330,2026-02-17,Australia,Switch Lite,Beginner
+1331,2026-02-20,Canada,Switch,Expert
+1332,2026-02-28,US,Switch Lite,Beginner
+1333,2026-03-23,Australia,Switch,Beginner
+1334,2026-02-12,Japan,Switch,Intermediate
+1335,2026-01-27,US,Switch Lite,Beginner
+1336,2026-01-28,Japan,Switch OLED,Intermediate
+1337,2026-03-18,US,Switch OLED,Expert
+1338,2026-01-19,Japan,Switch Lite,Beginner
+1339,2026-01-23,US,Switch Lite,Expert
+1340,2026-01-17,US,Switch OLED,Intermediate
+1341,2026-01-31,Australia,Switch OLED,Beginner
+1342,2026-02-03,US,Switch,Intermediate
+1343,2026-03-09,US,Switch Lite,Beginner
+1344,2026-02-27,Canada,Switch Lite,Intermediate
+1345,2026-02-27,Australia,Switch,Expert
+1346,2026-01-06,Germany,Switch Lite,Intermediate
+1347,2026-02-28,Germany,Switch,Beginner
+1348,2026-03-03,UK,Switch OLED,Intermediate
+1349,2026-03-04,Germany,Switch OLED,Beginner
+1350,2026-01-11,Canada,Switch Lite,Beginner
+1351,2026-01-17,Canada,Switch Lite,Intermediate
+1352,2026-03-12,Germany,Switch OLED,Beginner
+1353,2026-03-18,Australia,Switch OLED,Beginner
+1354,2026-03-19,UK,Switch,Intermediate
+1355,2026-01-15,Germany,Switch Lite,Expert
+1356,2026-03-12,Germany,Switch,Beginner
+1357,2026-01-30,UK,Switch OLED,Intermediate
+1358,2026-02-21,UK,Switch Lite,Beginner
+1359,2026-02-24,Canada,Switch Lite,Beginner
+1360,2026-01-20,Germany,Switch OLED,Beginner
+1361,2026-01-11,US,Switch OLED,Beginner
+1362,2026-02-17,Japan,Switch Lite,Beginner
+1363,2026-03-13,Australia,Switch OLED,Intermediate
+1364,2026-02-22,Canada,Switch Lite,Expert
+1365,2026-02-24,Germany,Switch,Expert
+1366,2026-03-18,Canada,Switch OLED,Beginner
+1367,2026-03-06,Japan,Switch,Intermediate
+1368,2026-01-29,US,Switch OLED,Intermediate
+1369,2026-02-17,US,Switch OLED,Intermediate
+1370,2026-02-24,Australia,Switch Lite,Intermediate
+1371,2026-03-24,Australia,Switch,Intermediate
+1372,2026-03-26,Germany,Switch OLED,Beginner
+1373,2026-02-04,Germany,Switch OLED,Expert
+1374,2026-02-14,US,Switch,Expert
+1375,2026-03-14,Germany,Switch OLED,Beginner
+1376,2026-03-23,US,Switch,Intermediate
+1377,2026-01-28,UK,Switch OLED,Beginner
+1378,2026-01-21,Canada,Switch OLED,Intermediate
+1379,2026-03-14,Australia,Switch,Expert
+1380,2026-01-20,Japan,Switch Lite,Beginner
+1381,2026-01-11,Canada,Switch OLED,Intermediate
+1382,2026-03-04,Australia,Switch OLED,Beginner
+1383,2026-01-28,Australia,Switch,Beginner
+1384,2026-01-15,Canada,Switch Lite,Intermediate
+1385,2026-03-04,Australia,Switch Lite,Beginner
+1386,2026-01-29,UK,Switch Lite,Beginner
+1387,2026-01-27,Canada,Switch,Intermediate
+1388,2026-02-02,Canada,Switch OLED,Beginner
+1389,2026-03-05,Germany,Switch OLED,Beginner
+1390,2026-02-18,Australia,Switch Lite,Beginner
+1391,2026-03-13,Germany,Switch OLED,Beginner
+1392,2026-01-06,UK,Switch,Beginner
+1393,2026-01-10,Canada,Switch Lite,Beginner
+1394,2026-02-21,Germany,Switch Lite,Beginner
+1395,2026-01-15,UK,Switch,Expert
+1396,2026-01-22,Australia,Switch OLED,Intermediate
+1397,2026-02-16,US,Switch OLED,Intermediate
+1398,2026-02-01,UK,Switch Lite,Beginner
+1399,2026-01-11,UK,Switch OLED,Intermediate
+1400,2026-01-29,Canada,Switch,Beginner
+1401,2026-03-23,US,Switch Lite,Intermediate
+1402,2026-02-14,Canada,Switch Lite,Expert
+1403,2026-03-24,Japan,Switch,Beginner
+1404,2026-02-02,Japan,Switch,Intermediate
+1405,2026-03-25,US,Switch,Expert
+1406,2026-03-22,UK,Switch OLED,Intermediate
+1407,2026-03-16,UK,Switch Lite,Expert
+1408,2026-03-14,Germany,Switch Lite,Expert
+1409,2026-02-11,Germany,Switch OLED,Beginner
+1410,2026-01-09,UK,Switch OLED,Intermediate
+1411,2026-02-05,Australia,Switch,Beginner
+1412,2026-01-10,Canada,Switch OLED,Beginner
+1413,2026-01-08,Canada,Switch OLED,Beginner
+1414,2026-01-12,Australia,Switch Lite,Intermediate
+1415,2026-03-01,Australia,Switch Lite,Expert
+1416,2026-01-06,UK,Switch Lite,Intermediate
+1417,2026-02-11,Australia,Switch OLED,Intermediate
+1418,2026-01-08,UK,Switch,Intermediate
+1419,2026-02-13,Germany,Switch,Intermediate
+1420,2026-01-23,US,Switch,Intermediate
+1421,2026-02-26,Australia,Switch Lite,Intermediate
+1422,2026-02-16,Canada,Switch OLED,Beginner
+1423,2026-02-13,Germany,Switch Lite,Beginner
+1424,2026-03-22,Germany,Switch OLED,Beginner
+1425,2026-01-13,Australia,Switch Lite,Beginner
+1426,2026-02-02,Germany,Switch Lite,Expert
+1427,2026-03-19,Japan,Switch OLED,Beginner
+1428,2026-03-26,Japan,Switch OLED,Beginner
+1429,2026-03-25,Germany,Switch Lite,Beginner
+1430,2026-03-18,Germany,Switch,Beginner
+1431,2026-02-18,Germany,Switch OLED,Intermediate
+1432,2026-03-27,Germany,Switch Lite,Expert
+1433,2026-03-09,US,Switch Lite,Intermediate
+1434,2026-03-07,Canada,Switch,Beginner
+1435,2026-01-24,Japan,Switch OLED,Expert
+1436,2026-03-04,Japan,Switch,Expert
+1437,2026-01-20,US,Switch OLED,Intermediate
+1438,2026-01-13,Australia,Switch Lite,Intermediate
+1439,2026-03-09,US,Switch Lite,Beginner
+1440,2026-03-21,Japan,Switch Lite,Beginner
+1441,2026-01-21,Japan,Switch Lite,Intermediate
+1442,2026-01-22,Germany,Switch OLED,Beginner
+1443,2026-02-16,Germany,Switch Lite,Beginner
+1444,2026-02-26,Australia,Switch OLED,Intermediate
+1445,2026-02-27,Japan,Switch Lite,Beginner
+1446,2026-03-02,Japan,Switch OLED,Intermediate
+1447,2026-03-15,UK,Switch OLED,Intermediate
+1448,2026-02-18,Australia,Switch Lite,Beginner
+1449,2026-01-21,Japan,Switch Lite,Beginner
+1450,2026-02-02,US,Switch Lite,Beginner
+1451,2026-02-17,Australia,Switch,Intermediate
+1452,2026-03-08,US,Switch OLED,Beginner
+1453,2026-01-21,Canada,Switch OLED,Expert
+1454,2026-01-19,UK,Switch,Expert
+1455,2026-01-29,UK,Switch OLED,Expert
+1456,2026-02-23,US,Switch OLED,Intermediate
+1457,2026-01-31,UK,Switch,Beginner
+1458,2026-01-04,Canada,Switch,Intermediate
+1459,2026-03-25,Canada,Switch,Beginner
+1460,2026-02-06,UK,Switch Lite,Intermediate
+1461,2026-04-01,UK,Switch OLED,Intermediate
+1462,2026-01-11,US,Switch OLED,Beginner
+1463,2026-01-20,Australia,Switch Lite,Intermediate
+1464,2026-02-24,US,Switch OLED,Beginner
+1465,2026-01-16,US,Switch,Beginner
+1466,2026-03-21,UK,Switch,Beginner
+1467,2026-03-05,Australia,Switch Lite,Beginner
+1468,2026-03-07,Australia,Switch,Intermediate
+1469,2026-02-07,UK,Switch,Intermediate
+1470,2026-01-31,Australia,Switch OLED,Beginner
+1471,2026-03-27,US,Switch Lite,Expert
+1472,2026-01-09,Australia,Switch Lite,Intermediate
+1473,2026-03-06,Australia,Switch,Beginner
+1474,2026-03-02,US,Switch Lite,Beginner
+1475,2026-02-17,Canada,Switch Lite,Beginner
+1476,2026-01-09,Canada,Switch,Intermediate
+1477,2026-03-22,US,Switch Lite,Intermediate
+1478,2026-02-12,Japan,Switch,Beginner
+1479,2026-02-13,Germany,Switch,Intermediate
+1480,2026-03-29,UK,Switch Lite,Beginner
+1481,2026-01-24,Japan,Switch,Intermediate
+1482,2026-02-28,US,Switch OLED,Beginner
+1483,2026-01-26,US,Switch OLED,Expert
+1484,2026-03-07,UK,Switch Lite,Beginner
+1485,2026-01-05,Germany,Switch,Beginner
+1486,2026-01-07,Germany,Switch OLED,Beginner
+1487,2026-02-17,UK,Switch OLED,Intermediate
+1488,2026-02-19,Canada,Switch,Beginner
+1489,2026-03-05,Canada,Switch Lite,Beginner
+1490,2026-01-11,Germany,Switch OLED,Beginner
+1491,2026-03-19,Japan,Switch Lite,Beginner
+1492,2026-01-14,US,Switch OLED,Intermediate
+1493,2026-02-09,UK,Switch Lite,Intermediate
+1494,2026-01-22,Germany,Switch OLED,Beginner
+1495,2026-01-06,Germany,Switch OLED,Intermediate
+1496,2026-02-25,Canada,Switch Lite,Expert
+1497,2026-01-08,US,Switch Lite,Intermediate
+1498,2026-02-16,Australia,Switch Lite,Intermediate
+1499,2026-01-04,Japan,Switch Lite,Intermediate
+1500,2026-02-26,US,Switch,Beginner
