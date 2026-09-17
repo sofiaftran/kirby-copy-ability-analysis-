@@ -11,17 +11,17 @@
 
 SELECT 
     a.ability_name,
-    u.ability_id,        
+    u.ability_id,
     SUM(u.times_used) AS total_uses,
-    SUM(u.times_used) * 1.0/
-      (SELECT SUM(times_used) 
-       FROM kirby_product_analytics.ability_usage) AS usage_share 
-FROM kirby_product_analytics.ability_usage AS u 
+    SUM(u.times_used) * 1.0 /
+        (SELECT SUM(times_used)
+         FROM kirby_product_analytics.ability_usage) AS usage_share
+FROM kirby_product_analytics.ability_usage AS u
 JOIN kirby_product_analytics.abilities AS a
-   ON u.ability_id = a.ability_id
+    ON u.ability_id = a.ability_id
 GROUP BY 
-      a.ability_name,
-      u.ability_id 
+    a.ability_name,
+    u.ability_id
 ORDER BY usage_share DESC;
 
 -- Finding:
