@@ -1,1 +1,13 @@
-
+ability_id,ability_name,unlock_world,attack_type,difficulty_rating
+1,Sword,1,Melee,1
+2,Fire,1,Ranged,2
+3,Ice,2,Ranged,3
+4,Needle,2,Melee,3
+5,Bomb,3,Ranged,4
+6,Hammer,3,Melee,4
+7,Beam,2,Ranged,2
+8,Tornado,4,Utility,4
+9,Leaf,4,Utility,5
+10,Ranger,5,Ranged,3
+11,Drill,5,Melee,4
+12,Sleep,2,Utility,1
